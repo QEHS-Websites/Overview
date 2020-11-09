@@ -17,7 +17,7 @@ Assignments: introduce GitHub, version control software (and file pathways for p
    - OPTION: use GitHub Classroom
    - NOTE: you should take some time and explore GitHub Classroom (lots of free stuff to explore)
 3. Create new repositories for each of the Case Studies listed below
-   - Introductory CS: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#introductory-cs-case-studies">here</a>)
+   - Introductory CS: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#introductory-cs-case-studies">here</a>
    - Intermediate CS
    - Advanced CS
 
@@ -93,6 +93,8 @@ Additional Case Studies (what users will see in an example )
 # Introductory Webpages and Introduction to a Simple Site
 
 **UNDER CONSTRUCTION**
+
+To Consider: promotion of all android apps and computer projects
 
 ---
 
