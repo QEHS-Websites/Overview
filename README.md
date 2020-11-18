@@ -105,6 +105,10 @@ Progressions To Expand Here
   - Purpose: annotate notes in Project Files like Who Am I and Main Project Promotion Page
   - GitHub Markdown Repository: https://github.com/MercersKitchen/Markdown-ReadMe-Documentation
   - Other Notes Below: Hyperlink TBA
+- Review Website Mentoring for Simple `Who Am I` Template (Elementary Aged Children)
+  - Review Code to Enable JavaScript enabling in Browser (JavaScript is Intermediate CS but learning about default settings in Browser is Introductory CS)
+  - Code should be part of Boilerplate
+  - Code can also illustrate security issues for Browser automatically running JavaScript
 - Introductory HTML with inline CSS Website
 - Introductory Boilerplate (automatic version in Atom)
 - Starting to Validate HTML (See Notes in Grouped Resources / Previous ReadMe.md)
