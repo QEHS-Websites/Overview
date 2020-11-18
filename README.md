@@ -30,7 +30,7 @@ Quick Hyperlinks skipping to below
 Various Related Repositories
 1. Webpages and Sites
    - https://github.com/QEHS-Websites/Overview
-   - https://github.com/MercersKitchen/Webpages-Sites
+   - https://github.com/QEHS-Websites/Grouped-Resources
    - https://github.com/MercersKitchen/Website-Mentoring
    - https://github.com/Dev-Outreach/Introduction-Static-HTML
 
@@ -94,7 +94,21 @@ Additional Case Studies (what users will see in an example )
 
 **UNDER CONSTRUCTION**
 
-To Consider: promotion of all android apps and computer projects
+To Consider: promotion of all android apps and computer projects as a Website Project
+- Create Repositories in GitHub for all Course Projects
+- Create a Paper and Pencil Case Study
+- Main Project is a Website in HTML with inline CSS to Promote one of these Projects
+
+Progressions To Expand Here
+- Introduction to the Internet and Web Documents (with small actives to illustrate)
+- Introduction to GitHub Markdown with Additional HTML rendering in GitHub ReadMe.md Files
+  - Purpose: annotate notes in Project Files like Who Am I and Main Project Promotion Page
+  - GitHub Markdown Repository: https://github.com/MercersKitchen/Markdown-ReadMe-Documentation
+  - Other Notes Below: Hyperlink TBA
+- Introductory HTML with inline CSS Website
+- Introductory Boilerplate (automatic version in Atom)
+- Starting to Validate HTML (See Notes in Grouped Resources / Previous ReadMe.md)
+
 
 ---
 
