@@ -118,5 +118,8 @@ Progressions To Expand Here
 
 # To Include
 
+Text To Speech & Synthesis App - JavaScript & Web Speech API (https://www.youtube.com/watch?v=ZORXxxP49G8)
+
+Build A Speed Typing Game In JavaScript (https://www.youtube.com/watch?v=Yw-SYSG-028)
 
 ---
