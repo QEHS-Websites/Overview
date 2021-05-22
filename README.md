@@ -122,4 +122,8 @@ Text To Speech & Synthesis App - JavaScript & Web Speech API (https://www.youtub
 
 Build A Speed Typing Game In JavaScript (https://www.youtube.com/watch?v=Yw-SYSG-028)
 
+A website with buttons, narrated in a linear seqeunce
+- Cell Phones and devices: click anywhere on the page to advance (navigation of naration at the bottom)
+- Able to include GIFs here like Realtors Website
+
 ---
