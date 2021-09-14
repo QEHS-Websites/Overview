@@ -23,19 +23,12 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 
 ---
 
-Quick Hyperlinks skipping to below
-- Introductory CS Synchronous Course, Websites, <a href="https://github.com/QEHS-Websites/Overview">Click Here for the detailed progressions and assignments to promote information</a>
-- Introductory CS Synchronous Course, Android, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps">Click here to skip to below</a>, for the detailed progressions and assignments of an Android Side-loaded App
-
 Various Related Repositories
 1. Webpages and Sites
    - https://github.com/QEHS-Websites/Overview
    - https://github.com/QEHS-Websites/Grouped-Resources
    - https://github.com/MercersKitchen/Website-Mentoring
    - https://github.com/Dev-Outreach/Introduction-Static-HTML
-
-2. Android App Development: Overview Summary of "Vertical Teaming", <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
-   - Ideas coming from: https://github.com/MercersKitchen/Introductory-Computer-Science
 
 ---
 
@@ -76,7 +69,7 @@ Website Case Studies ("How do you convince another person, by reading a single p
 
 Note for Android Assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
 
-Additional Case Studies (what users will see in an example )
+Additional Case Studies, in App Development
 - *Note about submitting Case Studies*:
   - submit an image of paper and save this into the Repository made for the Project
   - export file from program, to be saved in Repository (i.e. MS Paint's .bitmap)
@@ -92,27 +85,7 @@ Additional Case Studies (what users will see in an example )
 
 # Introductory Webpages and Introduction to a Simple Site
 
-**UNDER CONSTRUCTION**
-
-To Consider: promotion of all android apps and computer projects as a Website Project
-- Create Repositories in GitHub for all Course Projects
-- Create a Paper and Pencil Case Study
-- Main Project is a Website in HTML with inline CSS to Promote one of these Projects
-
-Progressions To Expand Here
-- Introduction to the Internet and Web Documents (with small actives to illustrate)
-- Introduction to GitHub Markdown with Additional HTML rendering in GitHub ReadMe.md Files
-  - Purpose: annotate notes in Project Files like Who Am I and Main Project Promotion Page
-  - GitHub Markdown Repository: https://github.com/MercersKitchen/Markdown-ReadMe-Documentation
-  - Other Notes Below: Hyperlink TBA
-- Review Website Mentoring for Simple `Who Am I` Template (Elementary Aged Children)
-  - Review Code to Enable JavaScript enabling in Browser (JavaScript is Intermediate CS but learning about default settings in Browser is Introductory CS)
-  - Code should be part of Boilerplate
-  - Code can also illustrate security issues for Browser automatically running JavaScript
-- Introductory HTML with inline CSS Website
-- Introductory Boilerplate (automatic version in Atom)
-- Starting to Validate HTML (See Notes in Grouped Resources / Previous ReadMe.md)
-
+**UNDER CONSTRUCTION**, <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
 
 ---
 
