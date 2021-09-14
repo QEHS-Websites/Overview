@@ -34,13 +34,9 @@ Various Related Repositories
 
 ### Preamble Notes
 
-Review Questions utilize Alberta Education's *Diploma Guiding Words*
-
 Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become familiar with ways of noting "Where does my file live?"
 - **Reading Hint**: notice the difference between `/` & `\`
 - Pathway Exemplar: `C:\Users\mmercer\Documents\GitHub\Hello-World\exemplarHelloWorld`
-- URL Exemplar: https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World
-- Instructions: File / Save
 
 ---
 
@@ -64,7 +60,7 @@ Main Project, Android App, review what is possible with Ketai.org
 - List the other interactions this app will have and when these will be available (clean & minimal GUI)
 
 Website Case Studies ("How do you convince another person, by reading a single page, your digital identity or app created is worth reading or using further?")
-- "Who Am I" Website Project
+- "Who Am I" Website Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
 - Promotion of Android App: Drawing Program or Music Program
 
 Note for Android Assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
