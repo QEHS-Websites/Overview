@@ -3,11 +3,13 @@ Vertical Teaming of High School CS Courses
 
 Introductory Webpages and Introduction to a Simple Site: <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
 
+Main Project to apply lessons: <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
+
 ---
 
 This DOC's Table of Contents
 - <a href="https://github.com/QEHS-Websites/Overview#five-mandatory-pieces-of-a-computer-environment-for-websites">Five Mandatory Pieces of a Computer Environment for Websites</a>
-- <a href="">Various Related Repositories</a>
+- <a href="https://github.com/QEHS-Websites/Overview#various-related-repositories">Various Related Repositories</a>: hosting, mentoring, and grouped resources
 <a href=""></a>
 
 ---
@@ -36,9 +38,9 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 
 # Various Related Repositories
 - https://github.com/QEHS-Websites/Website-Hosting
-- https://github.com/QEHS-Websites/Grouped-Resources
 - https://github.com/MercersKitchen/Website-Mentoring
 - https://github.com/Dev-Outreach/Introduction-Static-HTML
+- https://github.com/QEHS-Websites/Grouped-Resources
 
 ---
 
