@@ -12,6 +12,8 @@ Main Project to apply lessons: <a href="https://github.com/QEHS-Websites/Who-Am-
 This DOC's Table of Contents
 - <a href="https://github.com/QEHS-Websites/Overview#five-mandatory-pieces-of-a-computer-environment-for-websites">Five Mandatory Pieces of a Computer Environment for Websites</a>
 - <a href="https://github.com/QEHS-Websites/Overview#various-related-repositories">Various Related Repositories</a>: hosting, mentoring, and grouped resources
+- <a href="">Preamble Notes</a>
+- <a href="">Introductory CS Progressions and Assignments</a>
 <a href=""></a>
 
 ---
@@ -46,7 +48,7 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 
 ---
 
-### Preamble Notes
+# Preamble Notes
 
 Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become familiar with ways of noting "Where does my file live?"
 - **Reading Hint**: notice the difference between `/` & `\`
@@ -54,7 +56,7 @@ Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become 
 
 ---
 
-## Introductory CS Progressions and Assignments
+# Introductory CS Progressions and Assignments
 
 Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cloud)
 - Where are GitHub Servers? Which countries and locations?
