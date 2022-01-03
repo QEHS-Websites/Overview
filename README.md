@@ -26,6 +26,7 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 Various Related Repositories
 1. Webpages and Sites
    - https://github.com/QEHS-Websites/Overview
+   - https://github.com/QEHS-Websites/Website-Hosting
    - https://github.com/QEHS-Websites/Grouped-Resources
    - https://github.com/MercersKitchen/Website-Mentoring
    - https://github.com/Dev-Outreach/Introduction-Static-HTML
