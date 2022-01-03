@@ -12,9 +12,8 @@ Main Project to apply lessons: <a href="https://github.com/QEHS-Websites/Who-Am-
 This DOC's Table of Contents
 - <a href="https://github.com/QEHS-Websites/Overview#five-mandatory-pieces-of-a-computer-environment-for-websites">Five Mandatory Pieces of a Computer Environment for Websites</a>
 - <a href="https://github.com/QEHS-Websites/Overview#various-related-repositories">Various Related Repositories</a>: hosting, mentoring, and grouped resources
-- <a href="">Preamble Notes</a>
-- <a href="">Introductory CS Progressions and Assignments</a>
-<a href=""></a>
+- <a href="https://github.com/QEHS-Websites/Overview#preamble-notes">Preamble Notes</a>
+- <a href="https://github.com/QEHS-Websites/Overview#introductory-cs-progressions-and-assignments">Introductory CS Progressions and Assignments</a>
 
 ---
 
