@@ -7,7 +7,7 @@ Introductory Webpages and Introduction to a Simple Site: <a href="https://github
 
 This DOC's Table of Contents
 - <a href="https://github.com/QEHS-Websites/Overview#five-mandatory-pieces-of-a-computer-environment-for-websites">Five Mandatory Pieces of a Computer Environment for Websites</a>
-- <a href=""></a>
+- <a href="">Various Related Repositories</a>
 <a href=""></a>
 
 ---
@@ -34,7 +34,7 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 
 ---
 
-Various Related Repositories
+# Various Related Repositories
 - https://github.com/QEHS-Websites/Website-Hosting
 - https://github.com/QEHS-Websites/Grouped-Resources
 - https://github.com/MercersKitchen/Website-Mentoring
