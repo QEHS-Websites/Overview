@@ -10,6 +10,8 @@ This DOC's Table of Contents
 - <a href=""></a>
 <a href=""></a>
 
+---
+
 # Five Mandatory Pieces of a Computer Environment for Websites
 - Creating and Maintaining a GitHub Account
   - External Documentation for a Repository, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Creating%20a%20GitHub%20Repository#general-introduction-to-creating-a-github-repository-and-readmemd-file-1">Click Here</a>
@@ -33,12 +35,10 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 ---
 
 Various Related Repositories
-1. Webpages and Sites
-   - https://github.com/QEHS-Websites/Overview
-   - https://github.com/QEHS-Websites/Website-Hosting
-   - https://github.com/QEHS-Websites/Grouped-Resources
-   - https://github.com/MercersKitchen/Website-Mentoring
-   - https://github.com/Dev-Outreach/Introduction-Static-HTML
+- https://github.com/QEHS-Websites/Website-Hosting
+- https://github.com/QEHS-Websites/Grouped-Resources
+- https://github.com/MercersKitchen/Website-Mentoring
+- https://github.com/Dev-Outreach/Introduction-Static-HTML
 
 ---
 
