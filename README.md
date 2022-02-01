@@ -21,7 +21,8 @@ This DOC's Table of Contents
 - Creating and Maintaining a GitHub Account
   - External Documentation for a Repository, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Creating%20a%20GitHub%20Repository#general-introduction-to-creating-a-github-repository-and-readmemd-file-1">Click Here</a>
   - Using Markdown, <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
-  - Ideas for creating a presentation or video, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance"></a>
+  - Ideas for creating a presentation or video, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance">Click Here, might not work</a>
+  - Ensure your email is working and protected, "Have I Been Pwned?", "Badrap": this is now a legal and recorded form of communication for everything online
 - Creating and Maintaining a LinkedIn Account, connecting to others (must be at least 16 years old), see the website and start a profile (students will focus on )
 - Downloading and Stalling Chrome, Here: <A href="https://www.google.com/chrome/">Chrome</a>
 - Downloading and Installing Atom.io, here, https://atom.io/
