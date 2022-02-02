@@ -33,7 +33,7 @@ Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become 
 
 ---
 
-# Introductory CS Progressions and Assignments
+# Savenger Hunt, GitHub Pages (Hosting), and Creating Repositories
 
 Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cloud)
 - Where are GitHub Servers? Which countries and locations?
