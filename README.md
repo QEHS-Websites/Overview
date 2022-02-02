@@ -39,15 +39,19 @@ Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cl
 - How far does data travel with every saving of code?
 - What would it mean to have a GitHub server in your home? (permissions and physical data updating)
 
-### Introductory Website Case Studies
+### Create the Following Repositories
 
-Website Case Studies ("How do you convince another person, by reading a single page, your digital identity or app created is worth reading or using further?")
+Website Case Studies and Creating GitHub Repositories
+("How do you convince another person, by reading a single page, your digital identity or app created is worth reading or using further?")
 - "Who Am I" Website Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
 - Promotion of Android App: Drawing Program or Music Program
 
+Create this Repository for Learning HTML (a website to learn how to build a website)
+- Learning HTML github.io
+
 Any additional notes you have should be entered into the ReadMe.md file through Atom.io using <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">GitHub Markdown</a>
 
-Note: in Intermediate CS Mr. Mercer will review Command Lines and Accoisated tools used for locating specific servers and pathways. Instruction may also include
+Note: in Intermediate CS Mr. Mercer will review Command Lines and Accoisated tools used for locating specific servers and pathways. Instruction may also include ...
 - Home-based servers (LAMP) for mirroring a website locally on a RPi
 
 ---
