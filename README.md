@@ -9,14 +9,6 @@ Vertical Teaming of High School CS Courses
 
 ---
 
-# Introductory Webpages and Introduction to a Simple Site: <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
-
-Exemplar Website (Mutliple Pages) & Hosted Site to learn how to build and host websites: <a href="https://github.com/QEHS-Websites/LearningHTML.github.io">Click Here</a>
-
-Main Project to apply lessons: <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
-
----
-
 This DOC's Table of Contents
 - <a href="https://github.com/QEHS-Websites/Overview#five-mandatory-pieces-of-a-computer-environment-for-websites">Five Mandatory Pieces of a Computer Environment for Websites</a>
 - <a href="https://github.com/QEHS-Websites/Overview#various-related-repositories">Various Related Repositories</a>: hosting, mentoring, and grouped resources
@@ -58,6 +50,19 @@ Any additional notes you have should be entered into the ReadMe.md file through 
 
 Note: in Intermediate CS Mr. Mercer will review Command Lines and Accoisated tools used for locating specific servers and pathways. Instruction may also include
 - Home-based servers (LAMP) for mirroring a website locally on a RPi
+
+---
+
+# Introductory Webpages and Introduction to a Simple Site: <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
+
+Exemplar Website (Mutliple Pages) & Hosted Site to learn how to build and host websites: <a href="https://github.com/QEHS-Websites/LearningHTML.github.io">Click Here</a>
+
+Main Project to apply lessons: <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
+
+---
+
+# Intermediate Websites, Full HTML5 
+
 
 ---
 
