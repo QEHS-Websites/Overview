@@ -4,7 +4,7 @@ Vertical Teaming of High School CS Courses
 ---
 
 # Quick Links
-- Introductory Websties (HTML & Inline CSS, with GitHub Markdown for ReadMe.md planning), <a hre="">Click Here when Available</a>
+- Introductory Websties (HTML & Inline CSS, with GitHub Markdown for ReadMe.md planning), <a href="https://github.com/QEHS-Websites/Overview#introductory-webpages-html--inline-css">Click Here</a>
 - Intermeidate Websites (Full HTML5), <a href="https://github.com/QEHS-Websites/Overview#intermediate-websites-full-html5">Click Here</a>
 
 ---
