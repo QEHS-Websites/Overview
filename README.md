@@ -1,7 +1,15 @@
 # Overview
 Vertical Teaming of High School CS Courses
 
-Introductory Webpages and Introduction to a Simple Site: <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
+---
+
+# Quick Links
+- Introductory Websties (HTML & Inline CSS, with GitHub Markdown for ReadMe.md planning), <a hre="">Click Here when Available</a>
+- Intermeidate Websites (Full HTML5), <a hre="">Click Here when Available</a>
+
+---
+
+# Introductory Webpages and Introduction to a Simple Site: <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
 
 Exemplar Website (Mutliple Pages) & Hosted Site to learn how to build and host websites: <a href="https://github.com/QEHS-Websites/LearningHTML.github.io">Click Here</a>
 
