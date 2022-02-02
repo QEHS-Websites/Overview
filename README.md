@@ -43,11 +43,16 @@ Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cl
 
 Website Case Studies and Creating GitHub Repositories
 ("How do you convince another person, by reading a single page, your digital identity or app created is worth reading or using further?")
+Choose one of the following
 - "Who Am I" Website Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
 - Promotion of Android App: Drawing Program or Music Program
+Create a Repository
+- PROJECT_NAME github.io
+- Settings / GitHub Pages / Change Source to Main & Save
 
 Create this Repository for Learning HTML (a website to learn how to build a website)
 - Learning HTML github.io
+- Settings / GitHub Pages / Change Source to Main & Save
 
 Any additional notes you have should be entered into the ReadMe.md file through Atom.io using <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">GitHub Markdown</a>
 
