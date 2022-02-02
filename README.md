@@ -17,29 +17,6 @@ This DOC's Table of Contents
 
 ---
 
-# Five Mandatory Pieces of a Computer Environment for Websites
-- Creating and Maintaining a GitHub Account
-  - External Documentation for a Repository, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Creating%20a%20GitHub%20Repository#general-introduction-to-creating-a-github-repository-and-readmemd-file-1">Click Here</a>
-  - Using Markdown, <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
-  - Ideas for creating a presentation or video, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance">Click Here, might not work</a>
-  - Ensure your email is working and protected, "Have I Been Pwned?", "Badrap": this is now a legal and recorded form of communication for everything online
-- Creating and Maintaining a LinkedIn Account, connecting to others (must be at least 16 years old), see the website and start a profile (students will focus on )
-- Downloading and Stalling Chrome, Here: <A href="https://www.google.com/chrome/">Chrome</a>
-- Downloading and Installing Atom.io, here, https://atom.io/
-- Downloading and Installing GitHub Desktop (i.e. version control software), https://desktop.github.com/
-
-Assignments: introduce GitHub, version control software (and file pathways for prototyping), integrating App Development with Websites and Promotion ("Where do files live?")
-1. Create a LinkedIn Account and share with Mr. Mercer and others in the class as profile is developed
-2. Create a new repository, share it with Mr. Mercer by email (email URL), and modify the ReadMe.md file with Case Study ideas
-   - OPTION: use GitHub Classroom
-   - NOTE: you should take some time and explore GitHub Classroom (lots of free stuff to explore)
-3. Create new repositories for each of the Case Studies listed below
-   - Introductory CS: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#introductory-cs-case-studies">here</a>
-   - Intermediate CS
-   - Advanced CS
-
----
-
 # Various Related Repositories
 - https://github.com/QEHS-Websites/Website-Hosting
 - https://github.com/MercersKitchen/Website-Mentoring
