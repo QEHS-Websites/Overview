@@ -68,6 +68,10 @@ Note: in Intermediate CS Mr. Mercer will review Command Lines and Accoisated too
 ---
 
 # Introductory Webpages, HTML & Inline CSS
+- Clean Up these Hyperlinks
+- Refer to Hyperlinks in this organization
+- Reminder about Dev Out Project with JavaScript OFF
+- Reminder about Sandbox in Mercer's Kitchen
 
 and Introduction to a Simple Site: <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
 
@@ -78,7 +82,11 @@ Main Project to apply lessons: <a href="https://github.com/QEHS-Websites/Who-Am-
 ---
 
 # Intermediate Websites, Full HTML5 
-
+- Clean Up these Hyperlinks
+- Refer to Hyperlinks in this organization
+- Reminder about Dev Out Project Code with JavaScript OFF
+- Reminder about Sandbox in Mercer's Kitchen
+- Clean up links to various JavaScript Repsoitories, especially private ones
 
 ---
 
