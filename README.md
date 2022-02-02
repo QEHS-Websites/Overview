@@ -10,10 +10,9 @@ Vertical Teaming of High School CS Courses
 ---
 
 This DOC's Table of Contents
-- <a href="https://github.com/QEHS-Websites/Overview#five-mandatory-pieces-of-a-computer-environment-for-websites">Five Mandatory Pieces of a Computer Environment for Websites</a>
 - <a href="https://github.com/QEHS-Websites/Overview#various-related-repositories">Various Related Repositories</a>: hosting, mentoring, and grouped resources
 - <a href="https://github.com/QEHS-Websites/Overview#preamble-notes">Preamble Notes</a>
-- <a href="https://github.com/QEHS-Websites/Overview#introductory-cs-progressions-and-assignments">Introductory CS Progressions and Assignments</a>
+- <a href="https://github.com/QEHS-Websites/Overview#savenger-hunt-github-pages-hosting-and-creating-repositories">Savenger Hunt, GitHub Pages (Hosting), and Creating Repositories</a>
 
 ---
 
@@ -50,6 +49,10 @@ Any additional notes you have should be entered into the ReadMe.md file through 
 
 Note: in Intermediate CS Mr. Mercer will review Command Lines and Accoisated tools used for locating specific servers and pathways. Instruction may also include
 - Home-based servers (LAMP) for mirroring a website locally on a RPi
+
+---
+
+**UNDER CONSTRUCTION**
 
 ---
 
