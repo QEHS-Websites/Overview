@@ -53,7 +53,9 @@ Note: in Intermediate CS Mr. Mercer will review Command Lines and Accoisated too
 
 ---
 
-# Introductory Webpages and Introduction to a Simple Site: <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
+# Introductory Webpages, HTML & Inline CSS
+
+and Introduction to a Simple Site: <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
 
 Exemplar Website (Mutliple Pages) & Hosted Site to learn how to build and host websites: <a href="https://github.com/QEHS-Websites/LearningHTML.github.io">Click Here</a>
 
