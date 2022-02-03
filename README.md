@@ -39,6 +39,53 @@ Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cl
 - How far does data travel with every saving of code?
 - What would it mean to have a GitHub server in your home? (permissions and physical data updating)
 
+# Five Mandatory Pieces of a Computer Environment for Android Apps
+- Ensure you can see file extensions: View / [Checkbox] Show File Extensions
+- Creating and Maintaining a GitHub Account
+  - Creating a GitHub Repository, <a href="https://github.com/MercersKitchen/Creating-a-GitHub-Repository">Click Here</a>
+  - Using Markdown, <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
+  - Ideas for creating a presentation or video, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects">Click Here, might not work</a>
+  - Ensure your email is working and protected, "Have I Been Pwned?", "Badrap": this is now a legal and recorded form of communication for everything online
+- Creating and Maintaining a LinkedIn Account, connecting to others (must be at least 16 years old), see the website and start a profile (students will focus on )
+- Downloading and Inflating Processing on the parent folder of the C-Drive (Mr. Mercer will help with this)
+  - Here: https://processing.org/
+- Downloading and Installing Atom.io, here, https://atom.io/
+- Downloading and Installing GitHub Desktop (i.e. version control software), https://desktop.github.com/
+
+Assignments: introduce GitHub, version control software (and file pathways for prototyping), integrating App Development with Websites and Promotion ("Where do files live?")
+1. Create a LinkedIn Account and share with Mr. Mercer and others in the class as profile is developed
+2. Create a new repository, share it with Mr. Mercer by email (email URL), and modify the ReadMe.md file with Case Study ideas
+   - OPTION: use GitHub Classroom
+   - NOTE: you should take some time and explore GitHub Classroom (lots of free stuff to explore)
+3. Create new repositories for each of the Case Studies listed below ... Remeber [PROJECT NAME].github.io ... then Pages / Main Branch / Save ... then record Live URL
+
+What these prompts should illustrate
+- how code will read like a book, probably paragraph
+- how drawing occurs on a coordinate plane but is controlled by "paperfolding"
+- the importance of paper folding and Case Studies in GUI Design
+
+---
+
+# Where Files Live: Cloud or Local
+
+Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become familiar with ways of noting "Where does my file live?"
+- **Reading Hint**: notice the difference between `/` & `\`
+- Pathway Exemplar: `C:\Users\mmercer\Documents\GitHub\Hello-World\exemplarHelloWorld`
+- URL Exemplar: https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World
+- Instructions: File / Save
+
+---
+
+# Beginning Activity: How do you save to the Cloud
+- Note: using Command Line and associated tools will occur in CS-20
+
+Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cloud)
+- Where are GitHub Servers? Which countries and locations?
+- How far does data travel with every saving of code?
+- What would it mean to have a GitHub server in your home? (permissions and physical data updating)
+
+---
+
 ### Create the Following Repositories
 
 Website Case Studies and Creating GitHub Repositories
