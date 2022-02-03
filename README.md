@@ -4,8 +4,8 @@ Vertical Teaming of High School CS Courses
 ---
 
 # Quick Links
-- Introductory Websties (HTML & Inline CSS, with GitHub Markdown for ReadMe.md planning), <a href="https://github.com/QEHS-Websites/Overview#introductory-webpages-html--inline-css">Click Here</a>
-- Intermeidate Websites (Full HTML5), <a href="https://github.com/QEHS-Websites/Overview#intermediate-websites-full-html5">Click Here</a>
+- Introductory Websites (HTML & Inline CSS, with GitHub Markdown for ReadMe.md planning), <a href="https://github.com/QEHS-Websites/Overview#introductory-webpages-html--inline-css">Click Here</a>
+- Intermediate Websites (Full HTML5), <a href="https://github.com/QEHS-Websites/Overview#intermediate-websites-full-html5">Click Here</a>
 
 ---
 
@@ -32,13 +32,45 @@ Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become 
 
 ---
 
-# Savenger Hunt, GitHub Pages (Hosting), and Creating Repositories
+# Scavenger Hunt, GitHub Pages (Hosting), and Creating Repositories
 
 Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cloud)
 - Where are GitHub Servers? Which countries and locations?
 - How far does data travel with every saving of code?
 - What would it mean to have a GitHub server in your home? (permissions and physical data updating)
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+---
+
+**UNDER CONSTRUCTION**
+
+---
+
+# Introductory Webpages, HTML & Inline CSS
+- Clean Up these Hyperlinks
+- Refer to Hyperlinks in this organization
+- Reminder about Dev Out Project with JavaScript OFF
+- Reminder about Sandbox in Mercer's Kitchen
+
+and Introduction to a Simple Site: <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
+
+Exemplar Website (Multiple Pages) & Hosted Site to learn how to build and host websites: <a href="https://github.com/QEHS-Websites/LearningHTML.github.io">Click Here</a>
+
+Main Project to apply lessons: <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
+
+### Progressions
+- Create repositories
+  - Learning HTML
+  - Who am I
+- Create Folder Structure, add index.html & template.html with ATOM.io boilerplate
+- Modify Boilerplate to Semantic Tags Boilerplate on index.html
+- Copy index Boilerplate to template.html
+
+---
+=======
+>>>>>>> Stashed changes
 # Five Mandatory Pieces of a Computer Environment for Android Apps
 - Ensure you can see file extensions: View / [Checkbox] Show File Extensions
 - Creating and Maintaining a GitHub Account
@@ -87,8 +119,9 @@ Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cl
 ---
 
 ### Create the Following Repositories
+>>>>>>> 50ff11dceea69dca30b0404d09d8c60656443307
 
-Website Case Studies and Creating GitHub Repositories
+### Website Case Studies and Creating GitHub Repositories
 ("How do you convince another person, by reading a single page, your digital identity or app created is worth reading or using further?")
 
 Choose one of the following Projects
@@ -105,36 +138,26 @@ Create another Repository for Learning HTML (a website to learn how to build a w
 
 Any additional notes you have should be entered into the ReadMe.md file through Atom.io using <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">GitHub Markdown</a>
 
-Note: in Intermediate CS Mr. Mercer will review Command Lines and Accoisated tools used for locating specific servers and pathways. Instruction may also include ...
+Note: in Intermediate CS Mr. Mercer will review Command Lines and Associated tools used for locating specific servers and pathways. Instruction may also include ...
 - Home-based servers (LAMP) for mirroring a website locally on a RPi
 
 ---
-
-**UNDER CONSTRUCTION**
-
 ---
 
-# Introductory Webpages, HTML & Inline CSS
-- Clean Up these Hyperlinks
-- Refer to Hyperlinks in this organization
-- Reminder about Dev Out Project with JavaScript OFF
-- Reminder about Sandbox in Mercer's Kitchen
-
-and Introduction to a Simple Site: <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
-
-Exemplar Website (Mutliple Pages) & Hosted Site to learn how to build and host websites: <a href="https://github.com/QEHS-Websites/LearningHTML.github.io">Click Here</a>
-
-Main Project to apply lessons: <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
-
----
-
-# Intermediate Websites, Full HTML5 
+# Intermediate Websites, Full HTML5
 - Clean Up these Hyperlinks
 - Refer to Hyperlinks in this organization
 - Reminder about Dev Out Project Code with JavaScript OFF
 - Reminder about Sandbox in Mercer's Kitchen
 - Clean up links to various JavaScript Repsoitories, especially private ones
 
+### Progressions
+- Create the Following Repositories
+  - Learning JavaScript
+  - Main Project
+- Review Introductory Topics, see above, <a href="">Click Here when Available</a>
+
+###
 ---
 
 # To Include
