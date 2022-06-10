@@ -9,13 +9,6 @@ Vertical Teaming of High School CS Courses
 
 ---
 
-This DOC's Table of Contents
-- <a href="https://github.com/QEHS-Websites/Overview#various-related-repositories">Various Related Repositories</a>: hosting, mentoring, and grouped resources
-- <a href="https://github.com/QEHS-Websites/Overview#preamble-notes">Preamble Notes</a>
-- <a href="https://github.com/QEHS-Websites/Overview#savenger-hunt-github-pages-hosting-and-creating-repositories">Savenger Hunt, GitHub Pages (Hosting), and Creating Repositories</a>
-
----
-
 # Various Related Repositories
 - https://github.com/QEHS-Websites/Website-Hosting
 - https://github.com/MercersKitchen/Website-Mentoring
@@ -35,7 +28,7 @@ This DOC's Table of Contents
 - Ensure you can see file extensions: View / [Checkbox] Show File Extensions
 
 ### Progressions
-- Internet Architecture and Development Tools, <a href"https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools">Click Here</a>
+- Internet Architecture and Development Tools, <a href="https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools">Click Here</a>
   - Creating repositories: Learning HTML & Promotion of Drawing Program and Music Program
   - Create Folder Structure, add index.html & template.html with ATOM.io boilerplate (note Microsoft Visual Code Studio needed)
 - Introduction to ReadMe.md Markdown and HTML, <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
