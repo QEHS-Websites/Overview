@@ -5,7 +5,7 @@ Vertical Teaming of High School CS Courses
 
 # Quick Links
 - Introductory Websites (HTML & Inline CSS, with GitHub Markdown for ReadMe.md planning), <a href="https://github.com/QEHS-Websites/Overview#introductory-webpages-html--inline-css">Click Here</a>
-- Intermediate Websites (Full HTML5), <a href="https://github.com/QEHS-Websites/Overview#intermediate-websites-full-html5">Click Here</a>
+- Intermediate Websites (Full HTML5), <a href="">Click Here when Available</a>
 
 ---
 
@@ -21,24 +21,6 @@ This DOC's Table of Contents
 - https://github.com/MercersKitchen/Website-Mentoring
 - https://github.com/Dev-Outreach/Introduction-Static-HTML
 - https://github.com/QEHS-Websites/Grouped-Resources
-
----
-
-# Preamble Notes
-
-Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become familiar with ways of noting "Where does my file live?"
-- **Reading Hint**: notice the difference between `/` & `\`
-- Pathway Exemplar: `C:\Users\mmercer\Documents\GitHub\Hello-World\exemplarHelloWorld`
-
----
-
-# Scavenger Hunt, GitHub Pages (Hosting), and Creating Repositories
-
-Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cloud)
-- Where are GitHub Servers? Which countries and locations?
-- How far does data travel with every saving of code?
-- What would it mean to have a GitHub server in your home? (permissions and physical data updating)
-- How would this be protected? (i.e. VPN)
 
 ---
 
