@@ -27,22 +27,28 @@ Vertical Teaming of High School CS Courses
 - Reminder about Dev Out Project with JavaScript OFF
 - Ensure you can see file extensions: View / [Checkbox] Show File Extensions
 
-### Progressions
+## Introductions: Getting the Idea of The Internet
 - Internet Architecture and Development Tools, <a href="https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools">Click Here</a>
   - Creating repositories: Learning HTML & Promotion of Drawing Program and Music Program
-  - Create Folder Structure, add index.html & template.html with ATOM.io boilerplate (note Microsoft Visual Code Studio needed)
+  - Describe how information moves through the Internet (Block diagrams for saving to GitHub Servers for Version Control)
+  - Create Folder Structure, add index.html & template.html with Visual Code Studio boilerplate (note Microsoft Visual Code Studio needed)
+  - Answering two questions in Google Classroom
 - Introduction to ReadMe.md Markdown and HTML, <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
 - Learning HTML, <a href="https://github.com/QEHS-Websites/LearningHTML.github.io">Click Here</a>
 
+## Introduction to ReadMe.md files, GitHub Markdown & HTML, Simple Rendered Webpages, and a To Do List
+
+
+
+
 ### To Adjust or Include
+
+<head><noscript>Add this to the HTML to problem solve running scripts</noscript></head>
+
 
 ---
 
 # To Include
-
-<head><noscript>Add this to the HTML to problem solve running scripts</noscript></head>
-
----
 
 Text To Speech & Synthesis App - JavaScript & Web Speech API (https://www.youtube.com/watch?v=ZORXxxP49G8)
 
