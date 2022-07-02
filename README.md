@@ -37,14 +37,17 @@ Vertical Teaming of High School CS Courses
 - Learning HTML, <a href="https://github.com/QEHS-Websites/LearningHTML.github.io">Click Here</a>
 
 ## Introduction to ReadMe.md files, GitHub Markdown & HTML, Simple Rendered Webpages, and a To Do List
+- See https://github.com/QEHS-Websites/Introductory-HTML#introduction-to-html5-using-github-markdown
 
+## A Website
 
+See https://github.com/QEHS-Websites/LearningHTML.github.io
 
+## Final Project 
+
+See Promotional Website for Drawing App, Music Program, or idea of your choice 
 
 ### To Adjust or Include
-
-<head><noscript>Add this to the HTML to problem solve running scripts</noscript></head>
-
 
 ---
 
