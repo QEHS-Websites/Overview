@@ -93,7 +93,11 @@ Assignment:
 
 See https://github.com/QEHS-Websites/Introductory-HTML#introduction-to-html5-using-github-markdown
 
-Purpose:
+Purpose: Review all previous ReadMe.md files and use GitHub Markdown 
+
+Assignment: use GitHub Markdown (text formatting and lists are mandatory)
+- It is student choice to include other features
+- If unsure, see Mr. Mercer's ReadMe.md files for example markdown applications 
 
 ---
 
@@ -104,12 +108,57 @@ See https://github.com/QEHS-Websites/Introductory-HTML
 See https://github.com/QEHS-Websites/LearningHTML.github.io
 
 Purpose:
+- develop folders with ReadMe.txt (so folders show up in GitHub)
+- learn folder structure (symbol `..` and `\`)
+- develop the following pages
+- Cybersecurity: add <noscript> warning and "JavaScript Not Needed" Message
+
+childTemplate.html
+- HEAD exemplar (to be applied to all pages)
+- BODY exemplar (sematic template)
+- FOOTER exemplar (quote, special symbols, hyperlink & browser navigation)
+
+Note: What is a Sematic Body Template
+- https://www.w3schools.com/html/img_sem_elements.gif
+- http://tutorials.jenkov.com/images/html5/semantic-elements.png
+- https://www.hongkiat.com/blog/html-5-semantics/
+
+index.html
+- Navigation Menu
+- Flex-box Exemplar
+
+Headings and Paragraph Tags Page: compare h1-h6 in header vs. section-article
+- experience the different sizes
+- will influence how a viewport behaves (not intuitive)
+
+Subscript and Superscript Tags
+- Compared H1 again with Viewport
+- Used the highlighting tool to view what sub & superscripts mean
+
+Image Lesson Page
+- Start playing with viewport
+- Images in multiple sizes
+- Acceptable URLs must end in file extensions (.jpg, .mp3, .jpeg, .tiff, .png, etc.)
+
+Laying out DIVs (using HTML Boilerplate), in childTemplate Page
+- Turning on and off DIVs with comments in CSS
+
+What this index page might look like with Flex-box
+- 2-column
+- 3-column
+- CSS Classes, div-tag
+- HTML Order of Tags styled with classes
+
+Note, additional pages and exemplars without lessons are included in the completed exemplar 
 
 # Final Project 
 
 See Promotional Website for Drawing App, Music Program, or idea of your choice 
 
 Purpose:
+- Answer: do you know the difference between Publicly Facing URL and GitHub Repository URL
+- Answer: can you apply lessons from "A Website to learn how to write web pages"
+- Answer: can you be creative and promote an artistic item (drawing program, music program, alternate artistic item)
 
 ---
 
