@@ -33,13 +33,16 @@ Purpose - practice creating hosted websites, controlled by version control
 
 # Collecting information ideas for a promotional website
 
-See https://github.com/MercersKitchen/Website-Mentoring
-
-See https://github.com/QEHS-Websites/Promotion-Who-Am-I-Page
-
-Additionally, see Who Am I Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
-
 Purpose: how to identify artistic pieces and information about them for website promotion
+
+See https://github.com/MercersKitchen/Website-Mentoring
+- Attend to the .txt files for Interview Starters and Templates about promoting pieces of art
+- CAUTION: *ignore* Mentoring Notes
+
+**CAUTION: Next Lesson is Underconstruction**
+See https://github.com/QEHS-Websites/Promotion-Who-Am-I-Page
+- Additionally, see Who Am I Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
+- This information develops the Author's Webpage so the website builder's perspective is well known
 
 ---
 
