@@ -40,6 +40,7 @@ See https://github.com/MercersKitchen/Website-Mentoring
 - CAUTION: *ignore* Mentoring Notes
 
 **CAUTION: Next Lesson is Underconstruction**
+
 See https://github.com/QEHS-Websites/Promotion-Who-Am-I-Page
 - Additionally, see Who Am I Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
 - This information develops the Author's Webpage so the website builder's perspective is well known
