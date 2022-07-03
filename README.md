@@ -160,6 +160,27 @@ Purpose:
 - Answer: can you apply lessons from "A Website to learn how to write web pages"
 - Answer: can you be creative and promote an artistic item (drawing program, music program, alternate artistic item)
 
+See Rubric and Case Studies
+- See, for how to do a case study, https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-drawing-program
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-music-program
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-optional-final-project
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-android-side-loading-option
+
+[Case Study, Brain Storming] Creating the Ultimate Drawing (Notation) Program used for presentations, etc.
+  - Note: advanced prototyping is Server-Client running on same computer (ignoring Stack, Sockets, and VPN Tunneling)
+  - See Networking Example
+    - https://github.com/MercersKitchen/Network-Sandbox
+    - try https://github.com/QEHS-Networking
+
+[Case Study, Brain Storming] Creating the Ultimate Music Program used in Drawing Program or stand-alone
+  - Example: music fan, mediation or other unique tastes, instrumentation (i.e. saxophone favorites)
+  - Example: "demo" examples or music can be emailed as an executable app (developing this can be viewed as a part-time job)
+
+In addition to Author Page Text Expectations
+- Searching for images (min 3), audio, and video material (min 1 each), can be added after app dev is complete
+
+
 ---
 
 # Additional Resource
