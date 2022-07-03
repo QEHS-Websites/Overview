@@ -159,6 +159,7 @@ Purpose:
 - Answer: do you know the difference between Publicly Facing URL and GitHub Repository URL
 - Answer: can you apply lessons from "A Website to learn how to write web pages"
 - Answer: can you be creative and promote an artistic item (drawing program, music program, alternate artistic item)
+- Create a Site Map and Links (inside and outside webpage, note date accessed) for future development and upload to GitHub (if paper copy recorded as image)
 
 See Rubric and Case Studies
 - See, for how to do a case study, https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects
@@ -180,6 +181,13 @@ See Rubric and Case Studies
 In addition to Author Page Text Expectations
 - Searching for images (min 3), audio, and video material (min 1 each), can be added after app dev is complete
 
+App Version Downloads (executable or Processing-Java version)
+- Note: Processing-Java may not run on another program as developed on author's
+
+Project Notes or Project Credit: full program, start to finish, mimics all steps
+- Case Study: main screenshot, general GUI, features list, behaviors
+- Final Product and Prototyping illustrating development progress (similar to lessons demonstrating potential and then actual product)
+- To Do List for future versions
 
 ---
 
@@ -198,5 +206,15 @@ Build A Speed Typing Game In JavaScript (https://www.youtube.com/watch?v=Yw-SYSG
 A website with buttons, narrated in a linear sequence
 - Cell Phones and devices: click anywhere on the page to advance (navigation of narration at the bottom)
 - Able to include GIFs here like Realtors Website
+
+---
+
+Include <noscript>MESSAGE ABOUT SAFETY and this page does not run JavaScript</noscript>
+
+---
+
+- See: https://github.com/QEHS-Websites/Introductory-HTML#enrichment-setting-up-the-chrome-browser-for-html--css-validation
+- Develop with HTML Validation
+- Introduce CSS Validation and Accessibility Testing
 
 ---
