@@ -4,13 +4,14 @@ Vertical Teaming of High School CS Courses
 ---
 
 # Quick Links
-- Creating a New Hosted Repository in GitHub, <a href="">Click Here</a>
-- Collecting information ideas for a promotional website, <a href="">Click Here</a>
-- Exemplar Locally Hosted Website for Promotion (work we did with Grade 5's), <a href="">Click Here</a>
-- Background for understanding the Internet and Websites, <a href="">Click Here</a>
-- , <a href="">Click Here when available</a>
-- , <a href="">Click Here when available</a>
-- , <a href="">Click Here when available</a>
+- Creating a New Hosted Repository in GitHub, <a href="https://github.com/QEHS-Websites/Overview#creating-a-new-hosted-repository-in-github">Click Here</a>
+- Collecting information ideas for a promotional website, <a href="https://github.com/QEHS-Websites/Overview#collecting-information-ideas-for-a-promotional-website">Click Here</a>
+- Exemplar Locally Hosted Website for Promotion (work we did with Grade 5's), <a href="https://github.com/QEHS-Websites/Overview#exemplar-locally-hosted-website-for-promotion-work-we-did-with-grade-5s">Click Here</a>
+- Background for understanding the Internet and Websites, <a href="https://github.com/QEHS-Websites/Overview#background-for-understanding-the-internet-and-websites">Click Here</a>
+- Introduction to ReadMe.md files, GitHub Markdown & HTML, Simple Rendered Webpages, and a To Do List, <a href="https://github.com/QEHS-Websites/Overview#introduction-to-readmemd-files-github-markdown--html-simple-rendered-webpages-and-a-to-do-list">Click Here</a>
+- A Website to learn websites, <a href="https://github.com/QEHS-Websites/Overview#a-website-to-learn-websites">Click Here</a>
+- Final Project, <a href="https://github.com/QEHS-Websites/Overview#final-project">Click Here</a>
+- Additional Resource, <a href="https://github.com/QEHS-Websites/Overview#additional-resource">Click Here</a>
 
 To Do List, to build into resources
 - Reminder about Dev Out Project with JavaScript OFF
@@ -19,17 +20,6 @@ To Do List, to build into resources
 ---
 
 - Intermediate Websites (Full HTML5), <a href="">Click Here when Available</a>
-
----
-
-# Various Related Repositories
-- 
-- 
-- 
-- 
-- https://github.com/QEHS-Websites/Introductory-HTML
-- https://github.com/QEHS-Websites/LearningHTML.github.io
-- 
 
 ---
 
