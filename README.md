@@ -39,7 +39,7 @@ See https://github.com/MercersKitchen/Website-Mentoring
 - Attend to the .txt files for Interview Starters and Templates about promoting pieces of art
 - CAUTION: *ignore* Mentoring Notes
 
-**CAUTION: Next Lesson is Underconstruction**
+**CAUTION: Next Lesson part is Underconstruction**
 
 See https://github.com/QEHS-Websites/Promotion-Who-Am-I-Page
 - Additionally, see Who Am I Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
@@ -81,9 +81,13 @@ See https://github.com/QEHS-Websites/Introductory-HTML
 
 See https://github.com/QEHS-Websites/LearningHTML.github.io
 
+Purpose:
+
 # Final Project 
 
 See Promotional Website for Drawing App, Music Program, or idea of your choice 
+
+Purpose:
 
 ---
 
