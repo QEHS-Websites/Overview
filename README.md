@@ -31,8 +31,9 @@ See https://github.com/MercersKitchen/Creating-a-GitHub-Repository
 
 Purpose - practice creating hosted websites, controlled by version control
 
-Actions
-- Create HelloWorld Repository / Change something in ReadMe.md with Visual Studio Code / Update with GitHub Desktop
+Assignment:
+1. Create HelloWorld Repository / Change something in ReadMe.md with Visual Studio Code / Update with GitHub Desktop 
+2. Create Promotional Repository (note, this will be submitted in the next assignment)
 
 --- 
 
@@ -44,11 +45,15 @@ See https://github.com/MercersKitchen/Website-Mentoring
 - Attend to the .txt files for Interview Starters and Templates about promoting pieces of art
 - CAUTION: *ignore* Mentoring Notes
 
-**CAUTION: Next Lesson part is Underconstruction**
+**CAUTION:** Next Lesson part is Under construction
 
 See https://github.com/QEHS-Websites/Promotion-Who-Am-I-Page
 - Additionally, see Who Am I Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
 - This information develops the Author's Webpage so the website builder's perspective is well known
+
+Assignment:
+1. State what you are promoting (i.e. drawing program, music program, alternate piece of art work in various formats)
+2. Create an Website Author's Section and add all personal details and relevant information (minimum 10 text items)
 
 ---
 
