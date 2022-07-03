@@ -69,11 +69,23 @@ Purpose: view a completed project, hosted locally
 
 See https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools
 
+See https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects#flow-chart-symbols
+
 Purpose:
 - Introduction to Internet Architecture
 - Introduction to Development Tools
 - Introduction to how information flows through the Internet using block diagrams for saving to GitHub Servers for Version Control (to Privately Facing Code and Publicly Facing Website)
 - Comprehending the need for IT Specialists
+
+Assignment: 
+1. Answer questions related to your workstation, and submit and image of your workstation 
+2. Submit a block diagram using the following words
+- Note: attend how Mr. Mercer grades students' work who request feedback
+- Port: specific to tool being used (for GitHub Server connection, always GitHub Desktop, uses protected passwords to authenticate)
+- NIC Card, MAC Address, or SID
+- IP Address of host domain (Edmonton Public Schools & note, switches and intranet routers can be ignored)
+- IP Address of GitHub Server (or any server, even Cisco as demonstrated in the classroom)
+- Place of GitHub Server (or any server, even Cisco as demonstrated in the classroom)
 
 ---
 
