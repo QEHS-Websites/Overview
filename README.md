@@ -4,50 +4,98 @@ Vertical Teaming of High School CS Courses
 ---
 
 # Quick Links
-- Introductory Websites (HTML & Inline CSS, with GitHub Markdown for ReadMe.md planning), <a href="https://github.com/QEHS-Websites/Overview#introductory-webpages-html--inline-css">Click Here</a>
+- Creating a New Hosted Repository in GitHub, <a href="">Click Here</a>
+- Collecting information ideas for a promotional website, <a href="">Click Here</a>
+- Exemplar Locally Hosted Website for Promotion (work we did with Grade 5's), <a href="">Click Here</a>
+- Background for understanding the Internet and Websites, <a href="">Click Here</a>
+- , <a href="">Click Here when available</a>
+- , <a href="">Click Here when available</a>
+- , <a href="">Click Here when available</a>
+
+To Do List, to build into resources
+- Reminder about Dev Out Project with JavaScript OFF
+- Ensure you can see file extensions: View / [Checkbox] Show File Extensions
+
+---
+
 - Intermediate Websites (Full HTML5), <a href="">Click Here when Available</a>
 
 ---
 
 # Various Related Repositories
-- https://github.com/QEHS-Websites/Website-Hosting
-- https://github.com/MercersKitchen/Website-Mentoring
-- https://github.com/Dev-Outreach/Introduction-Static-HTML
-- https://github.com/QEHS-Websites/Grouped-Resources
+- 
+- 
+- 
+- 
+- https://github.com/QEHS-Websites/Introductory-HTML
+- https://github.com/QEHS-Websites/LearningHTML.github.io
+- 
 
 ---
 
-# Introductory Webpages, HTML & Inline CSS
-- Introduction to a Simple Site: <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
-- Exemplar Website (Multiple Pages) & Hosted Site to learn how to build and host websites: <a href="https://github.com/QEHS-Websites/LearningHTML.github.io">Click Here</a>
-- Promotions Website (Drawing Program, Music Program, or Special Project)
-  - Related, see Who Am I Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
+# Creating a New Hosted Repository in GitHub
 
-#### To Do List
-- Reminder about Dev Out Project with JavaScript OFF
-- Ensure you can see file extensions: View / [Checkbox] Show File Extensions
+See https://github.com/QEHS-Websites/Website-Hosting
 
-## Introductions: Getting the Idea of The Internet
-- Internet Architecture and Development Tools, <a href="https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools">Click Here</a>
-  - Creating repositories: Learning HTML & Promotion of Drawing Program and Music Program
-  - Describe how information moves through the Internet (Block diagrams for saving to GitHub Servers for Version Control)
-  - Create Folder Structure, add index.html & template.html with Visual Code Studio boilerplate (note Microsoft Visual Code Studio needed)
-  - Answering two questions in Google Classroom
-- Introduction to ReadMe.md Markdown and HTML, <a href="https://github.com/QEHS-Websites/Introductory-HTML">Click Here</a>
-- Learning HTML, <a href="https://github.com/QEHS-Websites/LearningHTML.github.io">Click Here</a>
+Purpose - practice creating hosted websites, controlled by version control
 
-## Introduction to ReadMe.md files, GitHub Markdown & HTML, Simple Rendered Webpages, and a To Do List
-- See https://github.com/QEHS-Websites/Introductory-HTML#introduction-to-html5-using-github-markdown
+--- 
 
-## A Website
+# Collecting information ideas for a promotional website
+
+See https://github.com/MercersKitchen/Website-Mentoring
+
+See https://github.com/QEHS-Websites/Promotion-Who-Am-I-Page
+
+Additionally, see Who Am I Project, <a href="https://github.com/QEHS-Websites/Who-Am-I">Click Here</a>
+
+Purpose: how to identify artistic pieces and information about them for website promotion
+
+---
+
+# Exemplar Locally Hosted Website for Promotion (work we did with Grade 5's)
+
+See https://github.com/Dev-Outreach/Introduction-Static-HTML
+
+Purpose: view a completed project, hosted locally 
+
+---
+
+# Background for understanding the Internet and Websites
+
+See https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools
+
+Purpose:
+- Introduction to Internet Architecture
+- Introduction to Development Tools
+- Introduction to how information flows through the Internet using block diagrams for saving to GitHub Servers for Version Control (to Privately Facing Code and Publicly Facing Website)
+- Comprehending the need for IT Specialists
+
+---
+
+# Introduction to ReadMe.md files, GitHub Markdown & HTML, Simple Rendered Webpages, and a To Do List
+
+See https://github.com/QEHS-Websites/Introductory-HTML#introduction-to-html5-using-github-markdown
+
+Purpose:
+
+---
+
+# A Website to learn websites
+
+See https://github.com/QEHS-Websites/Introductory-HTML
 
 See https://github.com/QEHS-Websites/LearningHTML.github.io
 
-## Final Project 
+# Final Project 
 
 See Promotional Website for Drawing App, Music Program, or idea of your choice 
 
-### To Adjust or Include
+---
+
+# Additional Resource
+
+See https://github.com/QEHS-Websites/Grouped-Resources
 
 ---
 
