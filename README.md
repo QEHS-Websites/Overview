@@ -27,7 +27,12 @@ To Do List, to build into resources
 
 See https://github.com/QEHS-Websites/Website-Hosting
 
+See https://github.com/MercersKitchen/Creating-a-GitHub-Repository
+
 Purpose - practice creating hosted websites, controlled by version control
+
+Actions
+- Create HelloWorld Repository / Change something in ReadMe.md with Visual Studio Code / Update with GitHub Desktop
 
 --- 
 
