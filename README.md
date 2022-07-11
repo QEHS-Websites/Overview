@@ -54,6 +54,7 @@ See https://github.com/QEHS-Websites/Promotion-Who-Am-I-Page
 Assignment:
 1. State what you are promoting (i.e. drawing program, music program, alternate piece of art work in various formats)
 2. Create an Website Author's Section and add all personal details and relevant information (minimum 10 text items)
+3. ReadMe.md: a checklist with an example check marked item and deleted item are mandatory
 
 ---
 
