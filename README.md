@@ -78,6 +78,8 @@ Purpose:
 - Introduction to how information flows through the Internet using block diagrams for saving to GitHub Servers for Version Control (to Privately Facing Code and Publicly Facing Website)
 - Comprehending the need for IT Specialists
 
+Lesson Activity: Block Diagram illustrating flow of information to and from GitHub Servers
+
 Assignment: 
 1. Answer questions related to your workstation, and submit and image of your workstation 
 2. Submit a block diagram using the following words
