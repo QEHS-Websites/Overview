@@ -4,6 +4,8 @@ Vertical Teaming of High School CS Courses
 ---
 
 # Quick Links
+
+### Introductory CS (HTML & CSS)
 - Creating a New Hosted Repository in GitHub, <a href="https://github.com/QEHS-Websites/Overview#creating-a-new-hosted-repository-in-github">Click Here</a>
 - Collecting information ideas for a promotional website, <a href="https://github.com/QEHS-Websites/Overview#collecting-information-ideas-for-a-promotional-website">Click Here</a>
 - Exemplar Locally Hosted Website for Promotion (work we did with Grade 5's), <a href="https://github.com/QEHS-Websites/Overview#exemplar-locally-hosted-website-for-promotion-work-we-did-with-grade-5s">Click Here</a>
@@ -19,7 +21,10 @@ To Do List, to build into resources
 
 ---
 
+### Intermedicate HTML & CSS
 - Intermediate Websites (Full HTML5), <a href="">Click Here when Available</a>
+
+**UNDERCONSTRUCTION**
 
 ---
 
