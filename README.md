@@ -26,6 +26,43 @@ To Do List, to build into resources
 
 **UNDERCONSTRUCTION**
 
+**Links to other Repositories**
+- Introduction to CSS Files, beyond inline styles from CS10, <a href="https://github.com/QEHS-Websites/Using-CSS-github.io">Click Here</a>
+- Introduction to Creating HTML5: https://github.com/QEHS-Websites/JavaScript-HTML-Interactions
+  - Project File Review
+  - HTML & CSS Basic Review
+  - Review Max of Two Numbers Assignment to build JavaScript file (comments contain algorithm)
+    - Note: both FLAT and Procedural JavaScript are included
+  - Purposes:
+    - Writing into HTML Element using innerHTML
+    - Writing into the HTML output using document.write()
+    - Writing into an alert box, using window.alert()
+    - Writing into the browser console, using console.log()
+  - Contents: (each folder contains separate website for local hosting)
+    - Original Max of Two Numbers File Ideas
+    - Exemplar Files
+    - Classroom Demonstration Files
+- IMPORTANT: if the console is deactivated for any reason, use HTML to create a CONSOLE-LOG for Debugging Purposes
+  - https://github.com/QEHS-Websites/Inner-HTML-JavaScript-Console.github.io
+- Basic Website for JavaScript Assignments, <a href="https://github.com/QEHS-Websites/LearningJavaScript.github.io">Click Here</a>
+  - includes explanations for each assignment and starter javascript code
+  - includes CSS introduction
+- JavaScript Assignments introduces
+  - method to connect HTML5: HTML, CSS, and JavaScript
+  - customizing a website by name of user, time of day
+  - When inputting numbers, returning word descriptions of those numbers
+
+Private Teacher-Only Repositories and Files (Consider deleting)
+- https://github.com/QEHS-Websites/CSS-Sandbox
+- https://github.com/QEHS-Websites/JavaScript-Sandbox
+- https://github.com/QEHS-Websites/JavaScript-Assignments
+- https://github.com/QEHS-Websites/JavaScript-Lessons
+
+- Resources Collection: https://github.com/QEHS-Websites/Grouped-Resources/tree/main/JavaScript%20Lessons
+
+Notes
+- Must include `<noscript>JavaScript is required for this website. Ensure JavaScript is enabled in your Browser Settings</noscript>`
+
 ---
 
 # Creating a New Hosted Repository in GitHub
@@ -214,10 +251,6 @@ Build A Speed Typing Game In JavaScript (https://www.youtube.com/watch?v=Yw-SYSG
 A website with buttons, narrated in a linear sequence
 - Cell Phones and devices: click anywhere on the page to advance (navigation of narration at the bottom)
 - Able to include GIFs here like Realtors Website
-
----
-
-Include <noscript>MESSAGE ABOUT SAFETY and this page does not run JavaScript</noscript>
 
 ---
 
