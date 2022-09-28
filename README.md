@@ -27,6 +27,9 @@ To Do List, to build into resources
 **UNDERCONSTRUCTION**
 
 **Links to other Repositories**
+- Create two new respositories in GitHub:
+  - Learning Javascript .github.io
+  - Promotions using HTML5 .github.io
 - Introduction to CSS Files, beyond inline styles from CS10, <a href="https://github.com/QEHS-Websites/Using-CSS-github.io">Click Here</a>
 - Introduction to Creating HTML5: https://github.com/QEHS-Websites/JavaScript-HTML-Interactions
   - Project File Review
