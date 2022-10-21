@@ -38,7 +38,8 @@ Progressions
   - Learning Javascript .github.io
   - Promotions using HTML5 .github.io
 - Introduction to CSS Files, beyond inline styles from CS10, <a href="https://github.com/QEHS-Websites/Using-CSS-github.io">Click Here</a>
-  - Hello World CSS Examples and CSS Intro Summary, <a href="https://github.com/QEHS-Websites/Using-CSS-github.io">Hello World Here</a> and <a href="https://github.com/QEHS-Websites/Using-CSS-github.io/blob/main/CSS_Intro-Summary.txt">CSS Summary Here</a>
+  - Hello World CSS Examples <a href="https://github.com/QEHS-Websites/Using-CSS-github.io">Here</a>
+  - CSS Intro Summary <a href="https://github.com/QEHS-Websites/Using-CSS-github.io/blob/main/CSS_Intro-Summary.txt">Here</a>
 
   <a href="">Click Here</a>
 
