@@ -34,7 +34,7 @@ Optional Links
 
 Progressions
 - Getting the Computer Ready, <a href="https://github.com/QEHS-Websites/Overview#general-introduction-creating-a-new-hosted-repository-in-github">Click Here</a>
-- Create two new repositories in GitHub:
+- Create two new repositories in GitHub, <a href="https://github.com/QEHS-Websites/Overview#general-introduction-creating-a-new-hosted-repository-in-github">Click Here</a> 
   - Learning Javascript .github.io
   - Promotions using HTML5 .github.io
 - Introduction to CSS Files, beyond inline styles from CS10, <a href="https://github.com/QEHS-Websites/Using-CSS-github.io">Click Here</a>
@@ -103,6 +103,7 @@ Ensuring Console Log is Accessible
 - if not, add the following to you webpages (i.e. childPages first), <a href="https://github.com/QEHS-Websites/Inner-HTML-JavaScript-Console.github.io">Click here when available</a>
 
 ---
+
 # General Introduction: Creating a New Hosted Repository in GitHub
 
 See https://github.com/QEHS-Websites/Website-Hosting
