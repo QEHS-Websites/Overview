@@ -21,10 +21,15 @@ To Do List, to build into resources
 
 ---
 
-### Intermedicate HTML & CSS
-- Intermediate Websites (Full HTML5), <a href="">Click Here when Available</a>
+### Intermediate HTML & CSS
 
 **UNDERCONSTRUCTION**
+
+Optional Links
+- Intermediate Websites (Full HTML5), <a href="">Click Here when Available</a>
+
+Links in this DOC
+- Getting the Computer Ready, <a href="">Click Here when Available</a>
 
 **Links to other Repositories**
 - Create two new respositories in GitHub:
@@ -68,7 +73,26 @@ Notes
 
 ---
 
-# Creating a New Hosted Repository in GitHub
+# General Introduction: Summary of Computer Environment
+
+Downloads and Installations
+- GitHub Account, able to use alias' only with no personal information
+- Open any Repository to ensure GitHub Desktop is connected
+  - download and install if necessary (straight install)
+- WYSIWYG: Microsoft Visual Code Studio
+- Test Local Hosting in Chrome
+
+Windows Settings
+- Ensure you can see file extensions: View / [Checkbox] Show File Extensions
+
+Basic Head Reminder about JavaScript
+- ```<noscript>``` Reminder: JavaScript is required and may be off
+
+Ensuring Console Log is Accessible
+- if not, add the following to you webpages (i.e. childPages first), <a href="https://github.com/QEHS-Websites/Inner-HTML-JavaScript-Console.github.io">Click here when available</a>
+
+---
+# General Introduction: Creating a New Hosted Repository in GitHub
 
 See https://github.com/QEHS-Websites/Website-Hosting
 
