@@ -27,9 +27,9 @@ To Do List, to build into resources
 
 ### Intermediate HTML & CSS
 
-**UNDERCONSTRUCTION**
+**UNDER CONSTRUCTION**
 
-Intermediate Websites Full HTML5, Project Introduction <a href="https://github.com/QEHS-Websites/Intermediate-Business-Website-Project">Click Here</a>
+Intermediate Websites Full HTML5, Project Introduction, Teacher-only, see Mr. Mercer <a href="https://github.com/QEHS-Websites/Intermediate-Business-Website-Project">Click Here for private repository</a>
 
 Progressions
 - Getting the Computer Ready, <a href="https://github.com/QEHS-Websites/Overview#general-introduction-creating-a-new-hosted-repository-in-github">Click Here</a>
