@@ -40,9 +40,12 @@ Progressions
   - Hello World CSS Examples <a href="https://github.com/QEHS-Websites/Using-CSS-github.io">Here</a>
   - CSS Intro Summary <a href="https://github.com/QEHS-Websites/Using-CSS-github.io/blob/main/CSS_Intro-Summary.txt">Here</a>
 - Additional CSS Teacher-only files, see Mr. Mercer, <a href="https://github.com/QEHS-Websites/CSS-Sandbox">Click Here, Repo is private</a>
-- 
 
-  <a href="">Click Here</a>
+A Website to Introduce JavaScript, see Mr. Mercer for this Teacher-only Repository,
+- Private Repo, <a href="https://github.com/QEHS-Websites/LearningJavaScript.github.io">Click Here for private repository</a>
+- Rendered Website, <a href="https://qehs-websites.github.io/LearningJavaScript.github.io/">Click Here</a>
+
+<a href="">Click Here</a>
 
 
 **Links to other Repositories**
