@@ -43,13 +43,13 @@ Progressions
 
 A Website to Introduce JavaScript, see Mr. Mercer for this Teacher-only Repository,
 - Private Repo, <a href="https://github.com/QEHS-Websites/LearningJavaScript.github.io">Click Here for private repository</a>
-- Rendered Website, <a href="https://qehs-websites.github.io/LearningJavaScript.github.io/">Click Here</a>
+- Rendered Website, <a href="https://qehs-websites.github.io/LearningJavaScript.github.io/">Click Here for private repository</a>
 
 JavaScript Lesson Repositories, Teacher-only Private Repositories
-- Most Current, <a href="https://github.com/QEHS-Websites/JavaScript-HTML-Interactions">Click Here</a>
-- JavaScript Sandbox, <a href="https://github.com/QEHS-Websites/JavaScript-Sandbox">Click Here</a>
-- Review After, assignments, <a href="https://github.com/QEHS-Websites/JavaScript-Lessons">Click Here</a>
-- Review After, Ordering Grades notes, etc, , <a href="https://github.com/QEHS-Websites/JavaScript-Assignments">Click Here</a>
+- Most Current, <a href="https://github.com/QEHS-Websites/JavaScript-HTML-Interactions">Click Here for private repository</a>
+- JavaScript Sandbox, <a href="https://github.com/QEHS-Websites/JavaScript-Sandbox">Click Here for private repository</a>
+- Review After, assignments, <a href="https://github.com/QEHS-Websites/JavaScript-Lessons">Click Here for private repository</a>
+- Review After, Ordering Grades notes, etc, , <a href="https://github.com/QEHS-Websites/JavaScript-Assignments">Click Here for private repository</a>
 
 <a href="">Click Here</a>
 
