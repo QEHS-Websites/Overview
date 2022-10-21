@@ -28,14 +28,17 @@ To Do List, to build into resources
 Optional Links
 - Intermediate Websites (Full HTML5), <a href="">Click Here when Available</a>
 
-Links in this DOC
-- Getting the Computer Ready, <a href="https://github.com/QEHS-Websites/Overview#general-introduction-creating-a-new-hosted-repository-in-github">Click Here when Available</a>
-
-**Links to other Repositories**
-- Create two new respositories in GitHub:
+Progressions
+- Getting the Computer Ready, <a href="https://github.com/QEHS-Websites/Overview#general-introduction-creating-a-new-hosted-repository-in-github">Click Here</a>
+- Create two new repositories in GitHub:
   - Learning Javascript .github.io
   - Promotions using HTML5 .github.io
 - Introduction to CSS Files, beyond inline styles from CS10, <a href="https://github.com/QEHS-Websites/Using-CSS-github.io">Click Here</a>
+
+
+**Links to other Repositories**
+
+
 - Introduction to Creating HTML5: https://github.com/QEHS-Websites/JavaScript-HTML-Interactions
   - Project File Review
   - HTML & CSS Basic Review
