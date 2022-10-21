@@ -43,7 +43,7 @@ Progressions
 
 Current NCCS Project Folder
 - Website to Learn JavaScript Webpages (HTML-JavaScript), <a href="https://github.com/QEHS-Websites/JavaScript-Website-to-Learn-HTML-JavaScript-Webpages.github.io">Click Here for repository</a> and 
-  - <a href="">Click Here for Public Facing Website when available</a>
+  - <a href="https://qehs-websites.github.io/JavaScript-Website-to-Learn-HTML-JavaScript-Webpages.github.io/">Click Here for Public Facing Website</a>
 - JavaScript Memories, <a href="https://github.com/QEHS-Websites/JavaScript-Memories">Click Here for private teacher-only repository</a>
 
 A Website to Introduce JavaScript, see Mr. Mercer for this Teacher-only Repository,
