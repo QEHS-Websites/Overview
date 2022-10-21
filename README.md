@@ -29,8 +29,7 @@ To Do List, to build into resources
 
 **UNDERCONSTRUCTION**
 
-Optional Links
-- Intermediate Websites (Full HTML5), <a href="">Click Here when Available</a>
+Intermediate Websites Full HTML5, Project Introduction <a href="https://github.com/QEHS-Websites/Intermediate-Business-Website-Project">Click Here</a>
 
 Progressions
 - Getting the Computer Ready, <a href="https://github.com/QEHS-Websites/Overview#general-introduction-creating-a-new-hosted-repository-in-github">Click Here</a>
@@ -40,6 +39,8 @@ Progressions
 - Introduction to CSS Files, beyond inline styles from CS10, <a href="https://github.com/QEHS-Websites/Using-CSS-github.io">Click Here</a>
   - Hello World CSS Examples <a href="https://github.com/QEHS-Websites/Using-CSS-github.io">Here</a>
   - CSS Intro Summary <a href="https://github.com/QEHS-Websites/Using-CSS-github.io/blob/main/CSS_Intro-Summary.txt">Here</a>
+- Additional CSS Teacher-only files, see Mr. Mercer, <a href="https://github.com/QEHS-Websites/CSS-Sandbox">Click Here, Repo is private</a>
+- 
 
   <a href="">Click Here</a>
 
