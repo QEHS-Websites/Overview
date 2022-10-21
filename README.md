@@ -41,12 +41,16 @@ Progressions
   - CSS Intro Summary <a href="https://github.com/QEHS-Websites/Using-CSS-github.io/blob/main/CSS_Intro-Summary.txt">Here</a>
 - Additional CSS Teacher-only files, see Mr. Mercer, <a href="https://github.com/QEHS-Websites/CSS-Sandbox">Click Here, Repo is private</a>
 
+Current NCCS Project Folder
+- Website to Learn JavaScript Webpages (HTML-JavaScript), <a href="https://github.com/QEHS-Websites/JavaScript-Website-to-Learn-HTML-JavaScript-Webpages.github.io">Click Here for repository</a> and 
+  - <a href="">Click Here for Public Facing Website when available</a>
+- JavaScript Memories, <a href="https://github.com/QEHS-Websites/JavaScript-Memories">Click Here for private teacher-only repository</a>
+
 A Website to Introduce JavaScript, see Mr. Mercer for this Teacher-only Repository,
 - Private Repo, <a href="https://github.com/QEHS-Websites/LearningJavaScript.github.io">Click Here for private repository</a>
 - Rendered Website, <a href="https://qehs-websites.github.io/LearningJavaScript.github.io/">Click Here for private repository</a>
 
 JavaScript Lesson Repositories, Teacher-only Private Repositories
-- Most Current, <a href="https://github.com/QEHS-Websites/JavaScript-HTML-Interactions">Click Here for private repository</a>
 - JavaScript Sandbox, <a href="https://github.com/QEHS-Websites/JavaScript-Sandbox">Click Here for private repository</a>
 - Review After, assignments, <a href="https://github.com/QEHS-Websites/JavaScript-Lessons">Click Here for private repository</a>
 - Review After, Ordering Grades notes, etc, , <a href="https://github.com/QEHS-Websites/JavaScript-Assignments">Click Here for private repository</a>
