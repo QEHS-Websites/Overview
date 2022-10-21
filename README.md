@@ -29,7 +29,7 @@ Optional Links
 - Intermediate Websites (Full HTML5), <a href="">Click Here when Available</a>
 
 Links in this DOC
-- Getting the Computer Ready, <a href="">Click Here when Available</a>
+- Getting the Computer Ready, <a href="https://github.com/QEHS-Websites/Overview#general-introduction-creating-a-new-hosted-repository-in-github">Click Here when Available</a>
 
 **Links to other Repositories**
 - Create two new respositories in GitHub:
