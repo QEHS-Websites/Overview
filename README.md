@@ -9,6 +9,10 @@ Vertical Teaming of High School CS Courses
 
 # Quick Links
 
+See https://github.com/QEHS-Websites/Simple-Introduction-Website 
+
+Beginning Project in HTML
+
 ### Introductory CS (HTML & CSS)
 - Creating a New Hosted Repository in GitHub, <a href="https://github.com/QEHS-Websites/Overview#creating-a-new-hosted-repository-in-github">Click Here</a>
 - Collecting information ideas for a promotional website, <a href="https://github.com/QEHS-Websites/Overview#collecting-information-ideas-for-a-promotional-website">Click Here</a>
